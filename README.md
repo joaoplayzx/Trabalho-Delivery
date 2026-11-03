@@ -7,7 +7,7 @@ Aplicação front-end de delivery feita com React, TypeScript e Vite para admini
 - Nome completo 2: PREENCHER
 
 ## GitHub
-Link do repositório: COLOCAR_AQUI_O_LINK_DO_GITHUB
+Link do repositório: https://github.com/joaoplayzx/Trabalho-Delivery
 
 ## Tecnologias
 - React + TypeScript + Vite
